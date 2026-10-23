@@ -30,9 +30,9 @@
     <td align="left" width="75%">
       <h3>💻 Sobre mí</h3>
       <hr>
-      <p>🔭 Actualmente estoy trabajando en proyectos personales y aprendiendo nuevas tecnologías.</p>
-      <p>🚀 Apasionado por el desarrollo web, el diseño limpio y la automatización.</p>
-      <p>⚡ En mi tiempo libre experimento con herramientas de inteligencia artificial y desarrollo de software.</p>
+      <p> Estudiante en la UNIVERSIDAD AUTÓNOMA DEL ESTADO DE HIGALGO.</p>
+      <p> Me gusta el arte y explorar el mundo.</p>
+      <p> Feliz pero no mucho....</p>
     </td>
     
   <td align="center" width="25%">
