@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/1200x/2e/de/7b/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner" />
 
   <!-- SALUDO -->
-  <h1>¡Hola! Soy Joohn 👋</h1>
+  <h1>¡Hola! Soy Joohn </h1>
   <p><b>Estudiante & Entusiasta de la Tecnología</b></p>
   
   <!-- ICONOS MODERNOS Y LIMPIOS -->
@@ -13,7 +13,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:jonathan07.fc@gmail.com">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" alt="Gmail" />
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/3840px-Gmail_icon_%282026%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="30" alt="Gmail" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/jooongx" target="_blank">
