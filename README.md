@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/1200x/2e/de/7b/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner" />
 
   <!-- SALUDO Y REDES SOCIALES ARRIBA -->
-  <h1>¡Hola! Soy Joohn 👋</h1>
+  <h1>¡Hola! Soy Joohn </h1>
   <p><b>Estudiante & Entusiasta de la Tecnología</b></p>
   
   <p>
@@ -26,7 +26,6 @@
       <p>🚀 Apasionado por el desarrollo web, el diseño limpio y la automatización.</p>
       <p>⚡ En mi tiempo libre experimento con herramientas de inteligencia artificial y desarrollo de software.</p>
     </td>
-    
     <!-- Imagen lateral de Pinterest -->
     <td align="center" width="25%">
       <img src="https://i.pinimg.com/736x/47/85/77/478577897923577929.jpg" width="140" alt="Imagen lateral" />
