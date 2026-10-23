@@ -28,7 +28,7 @@
     </td>
     <!-- Imagen lateral de Pinterest -->
     <td align="center" width="25%">
-      <img src="https://i.pinimg.com/736x/47/85/77/478577897923577929.jpg" width="140" alt="Imagen lateral" />
+      <img src="https://i.pinimg.com/736x/3b/91/9a/3b919ac7197679306b5bcd354aa30dc8.jpg" width="140" alt="Imagen lateral" />
     </td>
   </tr>
 </table>
