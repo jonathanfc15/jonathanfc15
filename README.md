@@ -2,8 +2,8 @@
   <!-- BANNER SUPERIOR: Puedes cambiar el enlace de la imagen por el GIF o banner que prefieras -->
   <img src="https://i.pinimg.com/1200x/2e/de/7b/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner" />
 
-  <h1>¡Hola que tal! Soy [Tu Nombre] 👋</h1>
-  <p><b>Desarrollador & Entusiasta de la Tecnología</b></p>
+  <h1>¡Hola! Soy Joohn </h1>
+  <p><b>Estudiante & Entusiasta de la Tecnología</b></p>
   
   <!-- TUS REDES SOCIALES (Enlaces y diseño de botones) -->
   <p>
