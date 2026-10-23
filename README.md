@@ -30,7 +30,7 @@
     <td align="left" width="75%">
       <h3>💻 Sobre mí</h3>
       <hr>
-      <p> Estudiante en la UNIVERSIDAD AUTÓNOMA DEL ESTADO DE HIGALGO.</p>
+      <p> Estudiante en la UAEH.</p>
       <p> Me gusta el arte y explorar el mundo.</p>
       <p> Feliz pero no mucho....</p>
     </td>
