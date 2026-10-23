@@ -47,6 +47,6 @@
 <div align="center">
   <h3>🛠️ Tecnologías y Herramientas</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,git,github,vscode,tailwind" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=,ts,react,html,css,python,git,github,vscode,tailwind" alt="Tecnologías" />
   </p>
 </div>
